@@ -21,7 +21,7 @@ freezegun>=0.3.8
 
 
 # homeassistant.components.notify.html5
-PyJWT==1.5.3
+PyJWT==2.4.0
 
 # homeassistant.components.media_player.sonos
 SoCo==0.12
@@ -124,7 +124,7 @@ pyunifi==2.13
 pywebpush==1.1.0
 
 # homeassistant.components.python_script
-restrictedpython==4.0a3
+restrictedpython==8.0
 
 # homeassistant.components.rflink
 rflink==0.0.34
